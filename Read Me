@@ -1,0 +1,6 @@
+This is a shell script file.
+you can run it by ./welcome.sh
+Steps to do, to run shell commands in Jenkins in Windows built in node
+Under "Manage Jenkins, go to tools section then in shell path copy and paste 
+C:\Program Files\Git\bin\sh.exe"
+Now we will be able to run shell scripts in Windows built in node 
