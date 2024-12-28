@@ -1,3 +1,3 @@
 #! /bin/bash
-echo "Welcome to Jenkins from Shell command"
+echo "Welcome to Jenkins from Shell command $1"
 
